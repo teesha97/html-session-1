@@ -1,0 +1,16 @@
+.tableauun, td, th {
+    border: 1px solid;
+    border-collapse: separate;
+}
+
+.tableaudeux, td, th {
+    border: 1px solid;
+    border-collapse: collapse;
+}
+
+.rouge{color: red;}
+.vert{color: green;}
+.bleu{color: blue;}
+
+
+img{width:250px; height: 250px;}
